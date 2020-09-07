@@ -119,6 +119,7 @@
                         <suiteXmlFile>tests_functional-smoke.xml</suiteXmlFile>
                         <suiteXmlFile>tests_functional-data-intensive.xml</suiteXmlFile>
                         <suiteXmlFile>tests_functional-data-validation.xml</suiteXmlFile>
+                        <suiteXmlFile>tests_oracle.xml</suiteXmlFile>
                     </suiteXmlFiles>
                     <argLine>
                         -javaagent:"${settings.localRepository}/org/aspectj/aspectjweaver/${aspectj.version}/aspectjweaver-${aspectj.version}.jar"
